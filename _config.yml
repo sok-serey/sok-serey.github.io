@@ -1,4 +1,5 @@
-title: Soksery
-#logo
-description: this is soksery blog | Robotic Engineering
-theme: jekyll-theme-minimal
+title: Architect theme
+description: Architect is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-architect
